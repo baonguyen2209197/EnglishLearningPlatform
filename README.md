@@ -17,6 +17,22 @@ A professional, production-grade C# .NET 8 platform for English course managemen
 - User roles (Admin, User)
 - Learning progress, points, rankings, test/assessment modules, lesson suggestion scaffolding
 
+## Quick Links
+- [API Documentation](docs/API_DOCUMENTATION.md)
+- [OpenAPI Spec](docs/openapi.json)
+- [Postman Collection](docs/postman_collection.json)
+
+## API Overview
+- [Authentication](docs/API_DOCUMENTATION.md#authentication)
+- [Courses](docs/API_DOCUMENTATION.md#courses)
+- [Lessons](docs/API_DOCUMENTATION.md#lessons)
+- [Users](docs/API_DOCUMENTATION.md#users-admin)
+- [Progress](docs/API_DOCUMENTATION.md#progress)
+- [Points & Rankings](docs/API_DOCUMENTATION.md#points--rankings)
+- [Suggestions](docs/API_DOCUMENTATION.md#suggestions)
+- [History](docs/API_DOCUMENTATION.md#history)
+- [Tests](docs/API_DOCUMENTATION.md#tests)
+
 ## Getting Started
 1. Clone the repo
 2. Update `docker-compose.yml` with your environment variables if needed
